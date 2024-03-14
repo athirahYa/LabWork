@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\n\ Description\:\ Lab\ test\ 2024\ \n\ Name\:\ Nur\ Athirah\ Binti\ Hilalluddin\n\ student\ ID\:\ AM2307013911\n\ Date\:\ 13/3/2024\n
+comment1.params=
+comment1.target=Employee()
+comment2.params=empName\ empSalary\ empServiceYears
+comment2.target=Employee(java.lang.String,\ double,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getEmpName()
+comment4.params=
+comment4.target=double\ getEmpSalary()
+comment5.params=
+comment5.target=int\ getEmpServiceYears()
+numComments=6

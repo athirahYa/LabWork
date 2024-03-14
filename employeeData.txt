@@ -1,0 +1,22 @@
+		=== List of Employee Details ===
+
+Name                    	| Salary   | Years of Service		
+Ahmad bin Abdullah              | 52500.00 | 2               
+Siti binti Abdul Rahman         | 63000.00 | 5               
+Mohd bin Mohd Hassan            | 73500.00 | 3               
+Nor binti Ismail                | 57750.00 | 1               
+Tan Ah Kow                      | 68250.00 | 4               
+Lim Mei Ling                    | 78750.00 | 6               
+Lee Kok Weng                    | 47250.00 | 2               
+Wong Mei Fong                   | 60900.00 | 3               
+Chan Siew Leng                  | 65100.00 | 4               
+Raja Kumar                      | 71400.00 | 5               
+
+==Top Performing Employee==
+Name: Lim Mei Ling
+Salary: 78750.0
+Years of Service: 6
+
+==Employee with the Least Years of Service==
+Name: Nor binti Ismail
+Years of Service: 1
